@@ -2,7 +2,7 @@
 
   
 
-##### # 👋 Olá! Eu sou o Richard Ornelas  
+## 👋 Olá! Eu sou o Richard Ornelas  
   
 
 ### <div align="right">
