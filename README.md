@@ -1,7 +1,5 @@
 
-<div align="center">
-<img src="https://blog.imatech.io/content/images/size/w2000/2022/08/qa_menor--1-.jpeg" align="center" style="width: 80%" />
-</div>  
+
   
 
 ##### # 👋 Olá! Eu sou o Richard Ornelas  
